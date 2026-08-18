@@ -1,2 +1,2 @@
-# dom-assignment
-A Task Manager built with plain HTML, CSS, and vanilla JavaScript.
+# dom-practice
+A repository for learning and practicing DOM manipulation and JavaScript through hands-on exercises and examples.
