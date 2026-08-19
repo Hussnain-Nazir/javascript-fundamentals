@@ -1,4 +1,4 @@
-# Task Manager - DOM Assignment
+# DOM Assignment - Task Manager 
 
 A Task Manager built with plain HTML, CSS, and vanilla JavaScript.
 
